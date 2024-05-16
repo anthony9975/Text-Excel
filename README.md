@@ -1,0 +1,3 @@
+This project created a simplified version of a excel sheet. It had 20 rows numbered 1-20 and 12 columns numbered A-L. I created a grid of 240 cells, each cell is automatically initialized to be empty and can accept 4 types of inputs: text input, number inputs which include formulas, numbers, and percents. Formulas can include numbers or cell refrences.
+This project was the cumulation of all my java knowledge. It used math skills and logic skills to plan out the code. It uses inheritance, as well as class and object creation, arrays and arraylists, system inputs, and polymorphism.
+This project was created as a school assigment to practice inheritance, class creation, arrays, and many other java skills. 
